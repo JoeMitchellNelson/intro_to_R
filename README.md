@@ -15,7 +15,7 @@ Projects in R don't typically rely on a single file, but instead a set of files 
 
 ## Pull this repo
 
-1. Copy the URL for this repository:
+1. Scroll up, click the green Code button, and copy the URL for this repository:
 
 ![](https://github.com/JoeMitchellNelson/intro_to_R/blob/main/img/gitpull0.png?raw=true)
 
