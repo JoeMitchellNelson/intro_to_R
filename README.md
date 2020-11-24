@@ -17,8 +17,17 @@ Projects in R don't typically rely on a single file, but instead a set of files 
 
 1. Copy the URL for this repository:
 
-2. Open RStudio and navigate to File -> New Project.
+![](https://github.com/JoeMitchellNelson/intro_to_R/blob/main/img/gitpull0.png?raw=true)
 
-3. Version control -> Git
+2. Open RStudio and navigate to File -> New Project
 
-4. Paste the URL into Repository URL (the other fields will auto-populate) and click Create Project.
+3. Click Version Control, then Git
+
+![](https://github.com/JoeMitchellNelson/intro_to_R/blob/main/img/gitpull1.png?raw=true)
+
+![](https://github.com/JoeMitchellNelson/intro_to_R/blob/main/img/gitpull2.png?raw=true)
+
+4. Paste the URL into the Repository URL field (the other fields will auto-populate) and click Create Project
+
+![](https://github.com/JoeMitchellNelson/intro_to_R/blob/main/img/gitpull4.png?raw=true)
+
