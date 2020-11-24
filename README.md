@@ -31,3 +31,7 @@ Projects in R don't typically rely on a single file, but instead a set of files 
 
 ![](https://github.com/JoeMitchellNelson/intro_to_R/blob/main/img/gitpull4.png?raw=true)
 
+## Play with some code
+
+In the bottom right panel in RStudio, click the Files tab, then click `make_plot.R`. The comments in that file will lead you from there.
+
