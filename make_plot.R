@@ -26,7 +26,7 @@ p_load(tidyverse,lubridate)
 # Note the ~ in the file name below. This tells R to look for the file in the current working directory.
 # You can check your current working directory with getwd()
 
-dat <- read.csv("~/intro_to_R/tp.csv")
+dat <- read.csv(here::here("tp.csv"))
 
 # Let's look at what we've got.
 # You can click dat in the upper right panel, or run the line below.
@@ -43,7 +43,7 @@ View(dat)
 # This is a common issue, since lots of data files will include a header like this one.
 # We can get around the problem by altering our code to skip the header:
 
-dat <- read.csv("~/intro_to_R/tp.csv", skip=2)
+dat <- read.csv(here::here("tp.csv"), skip=2)
 
 # The option skip=2 tells R to skip the first two lines in the csv file.
 # Note that we've assigned this fixed data to the same object, "dat."

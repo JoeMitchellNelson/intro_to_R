@@ -7,7 +7,11 @@ You'll need to install R (the language) and RStudio (the IDE). Both are free. [I
 
 ## Install Git
 
-Projects in R don't typically rely on a single file, but instead a set of files that work in tandem. For example, you might store data in one file, while R code to process that data is stored in another file. Storing projects in a git repository keeps sets of files organized. Git offers other benefits: your work lives in "the cloud," so it is always backed up, git offers branching abilities that allow multiple collaborators to work on a project at the same time, and git allows a single programmer to switch between machines easily (for example, between a work computer and a home computer). [Download git here.](https://gitforwindows.org/)
+Projects in R don't typically rely on a single file, but instead a set of files that work in tandem. For example, you might store data in one file, while R code to process that data is stored in another file. Storing projects in a git repository keeps sets of files organized. Git offers other benefits: your work lives in "the cloud," so it is always backed up, git offers branching abilities that allow multiple collaborators to work on a project at the same time, and git allows a single programmer to switch between machines easily (for example, between a work computer and a home computer). 
+
+[Download git for Windows here.](https://gitforwindows.org/)
+
+[Download git for Mac here. Preferable to use binary installation.](https://git-scm.com/download/mac)
 
 ## Create a GitHub account
 
